@@ -1,3 +1,4 @@
+package AdventOfCode2019.Day1;
 import java.util.Scanner;
 public class Day1p2 {
     public static void main(String[] args){
