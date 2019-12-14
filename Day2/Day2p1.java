@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class Day2p1 {
-    public static void main(String[] Args){
+    public static void main(String[] args){
         System.out.println("Input:");
         Scanner scanner = new Scanner(System.in);
         String scanned = scanner.next();
